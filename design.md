@@ -10,4 +10,4 @@
       - Lý do: Lỗi do bên Server
     TH4: Người dùng nhập tuổi bệnh nhân là -5 (Dữ liệu không hợp lệ về mặt logic).
       - HTTP Status: 400 Bad Request
-      - Lý do: Lỗi bên phía người dùng nhập dữ liệu không hợp l về mặt logic
+      - Lý do: Lỗi bên phía người dùng nhập dữ liệu không hợp lệ về mặt logic
